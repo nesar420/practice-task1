@@ -153,3 +153,26 @@ main {
     top: 7px;
     margin-left: 8px;
 }
+footer {
+    color: white;
+    background: #0A0826;
+    text-align: center;
+    padding: 50px;
+}
+footer h3 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 0;
+}
+footer p {
+    color: #D9DBE1;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 50px;
+}
+.footer-links{
+    padding: 10px 470px 20px 470px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
